@@ -7,3 +7,4 @@ A Alura tem um guia de carreira online que abrange várias carreiras na área de
 Após isso, fazer um upload de uma pasta imagens contendo as 4 imagens que estão disponíveis no template.
 - Dia 3 - 22/08/2023: Clonar esse repositório na minha máquina usando o comando "git clone".
 - Dia 4 - 16/02/2024: Editar o documento HTML em uma máquina local adicionando novos filmes contendo capa e sinopse, e depois fazer um commit para o repositório do github.
+- Dia 5 - 16/02/2024: Editar algo errado no documento HTML de propósito, fazer o commit e depois revertê-lo. 

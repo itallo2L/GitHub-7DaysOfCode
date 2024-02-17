@@ -9,3 +9,4 @@ Após isso, fazer um upload de uma pasta imagens contendo as 4 imagens que estã
 - Dia 4 - 16/02/2024: Editar o documento HTML em uma máquina local adicionando novos filmes contendo capa e sinopse, e depois fazer um commit para o repositório do github.
 - Dia 5 - 16/02/2024: Editar algo errado no documento HTML de propósito, fazer o commit e depois revertê-lo.
 - Dia 6 - 17/02/2024: Editar um campo no arquivo index.html pelo GitHub, fazer o commit e editar o mesmo campo de forma diferente no VS code e também fazer o commit, isso irá resultar em um conflito, o objetivo é resolvê-lo. O commit referente a esse dia é o de nome "Alteração da descrição".
+- Dia 7 - 17/02/2024: Possibilitar o acesso à página através do GitHub Pages, segue o <a href="https://itallo2l.github.io/GitHub-7DaysOfCode/" target="_blank">link</a>.
